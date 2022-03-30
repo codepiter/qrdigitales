@@ -1,0 +1,52 @@
+headroom--not-top.navbar-theme-primary {
+    background-color: #B71B1C;
+}
+
+.navbar-light .btn-docs {
+    color: #540300;
+    border-color: #540300;
+}
+
+.text-primary, .text-primary:hover {
+    color: #540300!important;
+}
+
+.bg-primary {
+    background-color: #B71B1C!important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #540300;
+    border-color: #540300;
+    box-shadow: 0 0.125rem 0.25rem rgb(13 20 49 / 7%);
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #75332F;
+    border-color: #75332F;
+}
+.cookieConsentContainer {
+    z-index: 999;
+    width: 350px;
+    min-height: 20px;
+    box-sizing: border-box;
+    padding: 30px 30px 30px 30px;
+    background: #540300!important;
+    overflow: hidden;
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    border-radius: 10px;
+    display: none;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #310503;
+    border-color: #310503;
+}
+
+.headroom--not-top.navbar-theme-primary {
+    background-color: #fff;
+	box-shadow: 2px 2px 3px #c4bfbf;
+}

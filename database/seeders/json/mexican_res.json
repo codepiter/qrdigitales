@@ -1,0 +1,100 @@
+{
+    "Burrito": [{
+        "image": "",
+        "title": "Burrito with chicken",
+        "description": "chicken on a plate, tortilla cake, rice, peppers on a plate, onion on a plate, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad ",
+        "price": "6.99"
+      },
+      {
+        "image":"",
+        "title": "Burrito Veggie",
+        "price": "5.99"
+      },
+      {
+        "image": "",
+        "title": "Burrito with beef roast",
+        "description": "veal or minced meat (specify), tortilla bread, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce, or hot spit at will ",
+        "price": "8.49"
+      },
+      {
+        "image": "",
+        "title": "Burrito with pork",
+        "description": "pork roast, tortilla bread, rice, plate peppers, plate onion, red beans, mushrooms, spicy corn, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce or hot salad, if desired",
+        "price": "6.99"
+      }
+    ],
+    "Quesadilla": [{
+        "image": "",
+        "title": "Quesadilla with chicken",
+        "description": "Cassadia with chicken - large chicken on a plate, 2 pieces of tortillas, plate peppers, mushrooms, beans, corn with spices, tomatoes, iceberg, cheese, olives, cream sauce, mayonnaise sauce or hot salad on desire ",
+        "price": "6.69"
+      },
+      {
+        "image": "",
+        "title": "Quesadilla with veal",
+        "description": "beef roast or minced meat, 2 pieces of tortilla tortilla, plate peppers, mushrooms, beans, corn with spices, tomatoes, iceberg, cheese, olives, cream sauce, mayonnaise sauce or hot salad",
+        "price": "7.69"
+      },
+      {
+        "image": "",
+        "title": "Vegetarian Quesadilla",
+        "description": "2pcs tortillas, plate peppers, plate onions, mushrooms, beans, corn with spices, tomatoes, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "6.19"
+      },
+      {
+        "image": "",
+        "title": "Quesadilla with Pork",
+        "description": "pork roast, 2 tortilla tortillas, plate peppers, mushrooms, beans, corn with spices, tomatoes, iceberg, yellow cheese, olives, cream sauce, mayonnaise sauce or hot salad",
+        "price": "6.69"
+      }
+    ],
+    "Taco": [{
+        "image": "",
+        "title": "Chicken Taco (250g)",
+        "description": "tortilla tortilla 16cm, chicken on a plate, tomatoes, corn, olives, yellow cheese, iceberg, cream or mayonnaise sauce",
+        "price": "3.49"
+      },
+      {
+        "image": "",
+        "title": "Taco with beef roasted meat (250g)",
+        "description": "tortilla tortilla 16cm, veal minced meat, tomatoes, corn, olives, yellow cheese, iceberg, cream or mayonnaise sauce",
+        "price": "3.99"
+      },
+      {
+        "image": "",
+        "title": "Pork Taco (250g)",
+        "description": "16cm tortilla cake, pork roast, tomatoes, corn, olives, yellow cheese, iceberg, cream or mayonnaise sauce",
+        "price": "3.49"
+      },
+      {
+        "image": "",
+        "title": "Tacos Veggie (250g)",
+        "price": "2.99"
+      }
+    ],
+    "Burrito In A Bowl": [{
+        "image": "",
+        "title": "Burrito Vegetarian in a Bowl (450g)",
+        "description": "rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "6.99"
+      },
+      {
+        "image": "",
+        "title": "Burrito with chicken in a bowl(450g)",
+        "description": "chicken, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "7.99"
+      },
+      {
+        "image": "",
+        "title": "Burrito with beef in a bowl (450g)",
+        "description": "veal, rice, plate peppers, onion, red beans, spiced corn, tomatoes, iceberg, yellow cheese, cream sauce or mayonnaise sauce, hot salts if desired",
+        "price": "8.99"
+      },
+      {
+        "image": "",
+        "title": "Burrito with pork in a bowl (450g)",
+        "description": "pork, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "7.99"
+      }
+    ]
+  }

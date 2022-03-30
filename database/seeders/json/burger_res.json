@@ -1,0 +1,114 @@
+{
+    "Burgers": [{
+            "image": "",
+            "title": "Wild Wild West",
+            "description": "freshly baked brioche bread, 100% freshly ground beef Limousine, crispy bacon, melted cheddar, brewed in Skapto beer onion rings, homemade BBQ sauce",
+            "price": "8.99"
+        },
+        {
+            "image": "",
+            "title": "Skapto Bulleit Bourbon",
+            "description": "juicy 100% minced beef, crispy bacon, melted cheddar, homemade Bulleit bourbon sauce, homemade marinated red onion, pickles, iceberg",
+            "price": "10.99"
+        },
+        {
+            "image": "",
+            "title": "Back to Basics",
+            "description": "juicy 100% minced beef, melted cheddar, pickles, iceberg, homemade Skapto sauce",
+            "price": "7.99"
+        },
+        {
+            "image": "",
+            "title": "Cheesus",
+            "description": "juicy 100% minced beef, crispy bacon, melted cheddar, fresh red onion, pickles, tomato, iceberg, lots of Hellman's mustard and ketchup",
+            "price": "9.99"
+        },
+        {
+            "image": "",
+            "title": "Skaptoburger",
+            "description": "juicy 100% freshly ground veal, crispy bacon, melted cheddar, fresh red onion, iceberg, tomato, homemade spicy Skapto sauce",
+            "price": "9.99"
+        },
+        {
+            "image": "",
+            "title": "El Pollo Loco",
+            "description": "Breaded until golden chicken fillet, crispy bacon, pickles, tomato, iceberg, mayonnaise and Hellman's mustard, barbecue sauce",
+            "price": "10.99"
+        },
+        {
+            "image": "",
+            "title": "SA7OSH1",
+            "description": "juicy 100% minced beef, breaded to golden yellow, crispy bacon, melted cheddar, fresh red onion, arugula, homemade Skapto sauce",
+            "price": "12.99"
+        }
+    ],
+    "Garnish": [{
+            "image": "",
+            "title": "Homemade french fries with ranch sauce (150g)",
+            "description": "French fries, homemade ranch dressing, cheddar cheese, fully ",
+            "price": "2.98"
+        },
+        {
+            "image": "",
+            "title": "Homemade french fries with cheddar and jalapenos (190g)",
+            "price": "3.97",
+            "description": "Olive oil, cheddar, green mix"
+        },
+        {
+            "image": "",
+            "title": "Homemade french fries (100g)",
+            "description": "100g",
+            "price": "1.99"
+        }
+    ],
+    "Salads": [{
+        "image": "",
+        "title": "Mexellente (350g)",
+        "description": "iceberg, red pepper, tomato, sweet corn, red beans, fresh red onions, parsley, lime juice, sweet chili sauce",
+        "price": "6.99"
+    }],
+    "Starters": [{
+            "image": "",
+            "title": "Homemade Potatoes with Cheddar and Jalapenos (300g)",
+            "description": "Cheddar cheese, butter, russet potatoes, rings, all purpose flour",
+            "price": "6.99"
+        },
+        {
+            "image": "",
+            "title": "Homemade Potatoes with Ranch Sauce (300g)",
+            "description": "Sour cream, ranch dressing, bacon, potatoes, cheddar cheese",
+            "price": "5.99"
+        },
+        {
+            "image": "",
+            "title": "Cheddar Sticks (250g)",
+            "description": "String cheese, bread crumbs, smoked paprika, egg",
+            "price": "7.99"
+        }
+    ],
+    "Drinks": [{
+            "image": "",
+            "title": "Schweppes Tonic (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "",
+            "title": "Sprite (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "",
+            "title": "Orange Fanta (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "",
+            "title": "Coca Cola (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        }
+    ]
+}

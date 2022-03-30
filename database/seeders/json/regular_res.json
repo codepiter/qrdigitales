@@ -1,0 +1,154 @@
+{
+    "Salads": [{
+            "image": "",
+            "title": "Caprese Salad (350gr)",
+            "description": "peeled tomatoes, mozzarella salad, Genovese pesto",
+            "price": "9.99"
+        },
+        {
+            "image": "",
+            "title": "Caesar Salad (400g)",
+            "description": "iceberg, bacon, chicken breast, parmesan, Caesar sauce",
+            "price": "10.99"
+        },
+        {
+            "image": "",
+            "title": "Salad Napoli (350g)",
+            "description": "iceberg, arugula, cherry tomatoes, mozzarella salad, salad dressing: (Extra Virgin olive oil, Modena balsamic vinegar, honey and mustard)",
+            "price": "9.99"
+        },
+        {
+            "image": "",
+            "title": "Green tuna salad (400g)",
+            "description": "lettuce, cucumbers, tuna, olive, corn, lemon, salad dressing: (Extra Virgin olive oil, Modena balsamic vinegar, honey and mustard)",
+            "price": "9.99"
+        },
+        {
+            "image": "",
+            "title": "Green salad (350g)",
+            "description": "lettuce, cucumbers, radishes, onions, egg, salad dressing: (Extra Virgin olive oil, Modena balsamic vinegar, honey and mustard)",
+            "price": "7.99"
+        },
+        {
+            "image": "",
+            "title": "Greek Salad (500g)",
+            "description": "tomatoes, cucumbers, green pepper, red onion, olive, feta cheese, extra virgin olive oil",
+            "price": "9.99"
+        }
+    ],
+    "Pizza": [{
+            "image": "",
+            "title": "Mozzarella Pizza",
+            "description": "tomato sauce, mozzarella sabelli, cherry tomatoes, olives, pesto sauce, extra virgin olive oil",
+            "price": "10.99"
+        },
+        {
+            "image": "",
+            "title": "Prosciutto crust pizza",
+            "description": "tomato sauce, mozzarella sabelli, prosciutto, arugula, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Pepperoni Pizza",
+            "description": "tomato sauce, mozzarella Sabelli, Calabro salad (spicy), extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Carriola Pizza",
+            "description": "tomato sauce, mozzarella sabelli, bacon, red onion, olives, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Perugia Pizza",
+            "description": "tomato sauce, mozzarella sabelli, chicken fillet, red onion, fresh peppers, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Pizza Napoli",
+            "description": "tomato sauce, mozzarella sabelli, ham, cherry tomatoes, emmental, arugula, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Margarita Pizza",
+            "description": "tomato sauce, mozzarella Sabelli, extra virgin olive oil",
+            "price": "10.49"
+        },
+        {
+            "image": "",
+            "title": "Combo Pizza 50/50 (70cm)",
+            "price": "39.99"
+        },
+        {
+            "image": "",
+            "title": "Capricciosa Pizza",
+            "description": "tomato sauce, mozzarella sabelli, ham, fresh mushrooms, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Quattro Formaggi Pizza",
+            "description": "cream (animal), mozzarella Sabelli, blue cheese, emmental, parmesan, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "",
+            "title": "Marco Polo Pizza",
+            "description": "tomato sauce, Sabelli mozzarella, chicken fillet, smoked cheese, corn, extra virgin olive oil",
+            "price": "14.99"
+        }
+    ],
+    "Burrito": [{
+            "image": "",
+            "title": "Burrito with chicken",
+            "description": "chicken on a plate, tortilla cake, rice, peppers on a plate, onion on a plate, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad ",
+            "price": "6.99"
+        },
+        {
+            "image": "",
+            "title": "Burrito Veggie",
+            "price": "5.99"
+        },
+        {
+            "image": "",
+            "title": "Burrito with beef roast",
+            "description": "veal or minced meat (specify), tortilla bread, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce, or hot spit at will ",
+            "price": "8.49"
+        },
+        {
+            "image": "",
+            "title": "Burrito with pork",
+            "description": "pork roast, tortilla bread, rice, plate peppers, plate onion, red beans, mushrooms, spicy corn, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce or hot salad, if desired",
+            "price": "6.99"
+        }
+    ],
+    "Drinks": [{
+            "image": "",
+            "title": "Schweppes Tonic (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "",
+            "title": "Sprite (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "",
+            "title": "Orange Fanta (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "",
+            "title": "Coca Cola (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        }
+    ]
+}

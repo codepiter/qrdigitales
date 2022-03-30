@@ -1,0 +1,16 @@
+.bg-gradient-primary, .bg-gradient-default, .bg-gradient-info  {
+    background: #870d0d !important;
+}
+
+/*
+.bg-gradient-primary {
+    background: linear-gradient( 
+87deg
+ , #f54031 0, #4e1111 100%) !important;
+}
+
+.bg-gradient-default {
+    background: linear-gradient(
+87deg
+, #15080a 0, #c7c6cb 100%) !important;
+}*/
